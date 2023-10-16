@@ -1,7 +1,8 @@
-# Header - Change by player A
+# Section A
+Original content for A.
 
-# Main content
-This is some content in the middle of the file.
+# Section B
+Original content for B.
 
-# Footer
-This is the footer of the file.
+# Section C
+Original content for C.
